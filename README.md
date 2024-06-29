@@ -1,6 +1,6 @@
 # **HercuFit** 🏋️‍♂️
 
-**Caption:** *The Ultimate App for Gym Freaks: Crush Your Workouts with Herculean Precision.*
+The Ultimate App for Gym Freaks: Crush Your Workouts with Herculean Precision.*
 
 ---
 
